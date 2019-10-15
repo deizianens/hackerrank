@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# https://www.hackerrank.com/challenges/2d-array
 import math
 import os
 import random
